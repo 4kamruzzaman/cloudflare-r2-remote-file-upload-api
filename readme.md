@@ -67,7 +67,7 @@ Before you start, make sure you have:
 
 **Option A: Using Git**
 ```bash
-git clone https://github.com/yourusername/cloudflare-r2-remote-file-upload-api.git
+git clone https://github.com/4kamruzzaman/cloudflare-r2-remote-file-upload-api.git
 cd cloudflare-r2-remote-file-upload-api
 ```
 
@@ -805,9 +805,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Need help? Here's how to get support:
 
 - 📖 **Documentation:** Read this README thoroughly
-- 🐛 **Bug Reports:** [Open an issue](https://github.com/yourusername/cloudflare-r2-remote-file-upload-api/issues)
-- 💡 **Feature Requests:** [Start a discussion](https://github.com/yourusername/cloudflare-r2-remote-file-upload-api/discussions)
-- 📧 **Email:** your-email@example.com
+- 🐛 **Bug Reports:** [Open an issue](https://github.com/4kamruzzaman/cloudflare-r2-remote-file-upload-api/issues)
+- 💡 **Feature Requests:** [Start a discussion](https://github.com/4kamruzzaman/cloudflare-r2-remote-file-upload-api/discussions)
+- 📧 **Email:** 4kamruzzaman@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -839,6 +839,6 @@ Future enhancements planned:
 
 If this project helped you, please ⭐ star the repository!
 
-[Report Bug](https://github.com/yourusername/cloudflare-r2-remote-file-upload-api/issues) · [Request Feature](https://github.com/yourusername/cloudflare-r2-remote-file-upload-api/issues) · [Documentation](https://github.com/yourusername/cloudflare-r2-remote-file-upload-api/wiki)
+[Report Bug](https://github.com/4kamruzzaman/cloudflare-r2-remote-file-upload-api/issues) · [Request Feature](https://github.com/4kamruzzaman/cloudflare-r2-remote-file-upload-api/issues) · [Documentation](https://github.com/4kamruzzaman/cloudflare-r2-remote-file-upload-api/wiki)
 
 </div>
