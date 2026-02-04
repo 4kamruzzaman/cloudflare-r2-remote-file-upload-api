@@ -3,7 +3,7 @@
 // Owner: Senior SRE & Lead Architect
 
 header('Content-Type: application/json');
-date_default_timezone_set('Asia/Dhaka');
+date_default_timezone_set('America/New_York');
 
 require_once __DIR__ . '/db.php';
 
